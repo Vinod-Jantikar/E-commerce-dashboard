@@ -1,0 +1,37 @@
+.product-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px  0px 0px 0px;
+}
+
+.product-list li {
+    list-style: none;
+    border: 2px solid black;
+    padding: 5px 25px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 200px;
+    color: cadetblue;
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+
+.product li {
+    list-style: none;
+    border: 1px solid black;
+    padding: 5px 25px;
+    font-size: 16px;
+    width: 202px;
+    font-weight: 400;
+}
+
+.input-box {
+    width: 40%;
+    padding: 5px;
+}

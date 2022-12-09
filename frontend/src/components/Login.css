@@ -1,0 +1,26 @@
+.login-div {
+    text-align: center;
+    width: 35%;
+    margin: 60px auto;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+      rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+      rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+      padding: 20px;
+  }
+  
+  .login-input {
+    width: 70%;
+    margin: 10px 0px;
+    padding: 5px;
+  }
+  
+  .login-submit {
+    width: 73%;
+    margin: 20px 0px;
+    padding: 5px;
+    background-color: #2a3990;
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+  }
+  
